@@ -8,6 +8,8 @@ BATCH: DW75DW76
 
 DOMAIN : DATA SCIENCE
 
+https://www.linkedin.com/posts/ramyakrishnan19_excited-to-share-a-glimpse-of-my-latest-project-activity-7168129414369595392-Y7Gv?utm_source=share&utm_medium=member_desktop
+
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
 # Libraries for preprocessing
